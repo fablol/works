@@ -1,0 +1,7 @@
+﻿生成启动时间为 2017/7/18 13:54:39。
+     1>项目“E:\projects\python\test\test\test.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\test.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Python\Python36-32\libs" /IC:\c99 /I"C:\Python\Python36-32\include" /ID:\lua\boost_1_64_0 /I"d:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+     0>MSBUILD : error MSB4166: 子节点“2”过早退出。正在关闭。可以在临时文件目录中名为 MSBuild_*.failure.txt 的文件中找到诊断信息。
